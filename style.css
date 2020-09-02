@@ -75,7 +75,7 @@ body{
   font-style: italic;
 }
 #showcase{
-  background-image: url('../image/libary.jpg');
+  background-image: url('libary.jpg');
   background-position: center right;
   min-height:300px;
   margin-bottom:30px;
